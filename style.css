@@ -1,0 +1,410 @@
+.body{
+    background-color:rgb(62, 9, 122);
+    position: absolute;
+}
+
+.clock-image{
+    padding-left:140px;
+    margin-top:10px;
+    
+}
+
+
+.time-set{
+    border:1px solid white;
+    border-radius:7px;
+    background-color: white;
+    margin-top:50px;
+    width:560px;
+    height:270px;
+    margin-left: 180px;
+    
+    
+}
+
+
+
+#dynamic-block{
+    font-size:20px;
+    border-radius:8px;
+    background-color:pink;
+    color:blue;
+    height: 100px;
+    width:567px;
+    margin-top:50px;
+    position: absolute;
+    margin-left:180px;
+    margin-top:100px;
+   
+    
+}
+
+#dynamic-block1{
+    font-size:20px;
+    border-radius:8px;
+    background-color:pink;
+    color:blue;
+    height: 100px;
+    width:567px;
+    margin-top:50px;
+    position: absolute;
+    margin-left:180px;
+    margin-top:100px;
+   
+    
+}
+
+#dynamic-block2{
+    font-size:20px;
+    border-radius:8px;
+    background-color:pink;
+    color:blue;
+    height: 100px;
+    width:567px;
+    margin-top:50px;
+    position: absolute;
+    margin-left:180px;
+    margin-top:100px;
+   
+    
+}
+
+
+
+
+
+#party-time{
+    border:1px transparent;
+    border-radius:7px;
+    width:290px;
+    color:white;
+    font-size: 19px;
+    height:50px;
+    background-image: linear-gradient(to right, rgb(128, 31, 148), pink);
+    padding-left:20px;
+    padding-top:8px;
+    margin-top:30px;
+    margin-left:180px; 
+    position: absolute;
+    
+      
+}
+
+
+
+#party-time:hover{
+    background-image: linear-gradient(to right,pink, rgb(128, 31, 148) );
+}
+
+.wishes{
+    border:1px transparent;
+    background-color: rgb(126, 35, 168);
+    border-radius:7px;
+    color:white;
+    font-size:26px;
+    width:543px;
+    height:46px;
+    font-weight:bold;
+    margin-left:180px;
+    margin-top:15px;
+    padding-left:20px;
+    padding-top:22px;
+    
+}
+
+.form1{
+    color:purple;
+    font-size:20px;
+}
+
+#default{
+    color:purple;
+    border:1px solid grey;
+    font-size:15px;
+    border-radius:5px;
+    width:270px;
+    height:45px;
+    margin-left:75px;
+    margin-top:30px;
+    padding-left:10px;
+}
+
+#default1{
+    color:purple;
+    border:1px solid grey;
+    font-size:15px;
+    border-radius:5px;
+    width:270px;
+    height:45px;
+    margin-left:99px;
+    margin-top:20px;
+    padding-left:10px;
+}
+
+#default2{
+    color:purple;
+    border:1px solid grey;
+    font-size:15px;
+    border-radius:5px;
+    width:270px;
+    height:45px;
+    margin-left:113px;
+    margin-top:20px;
+    padding-left:10px;
+    
+}
+
+.set{
+    font-size:19px;
+    margin-left:54px;
+    font-family:Sans-serif;
+}
+
+.set1{
+    font-size:19px;
+    margin-left:54px;
+    font-family:Sans-serif;
+}
+
+.set2{
+    font-size:19px;
+    margin-left:54px;
+    font-family:Sans-serif;
+}
+
+.wakeup{
+    margin-top:35px;
+    margin-left:-198px;
+    position:absolute;
+}
+
+.lunchtime{
+    margin-top:28px;
+    margin-left:-170px;
+    position:absolute;
+}
+
+.naptime{
+    margin-top:31px;
+    margin-left:-153px;
+    position:absolute;
+}
+
+hr{
+    width:0.01ch;
+    height:42px;
+}
+
+.verticalline{
+    position:absolute;
+    margin-left:22px;
+    margin-top:-5px;
+}
+
+.verticalline1{
+    position:absolute;
+    margin-left:22px;
+    margin-top:-5px;
+}
+
+
+
+#baloon{
+    background-image:url("background.jpg");
+    background-repeat: no-repeat;
+    height:84%;
+    width:70%;
+    position: absolute;
+    border:transparent;
+    margin-left:870px;
+    margin-top:-260px;
+    border-radius: 7px;
+    
+}
+
+
+
+
+
+.header{
+    border:1px solid rgb(98, 40, 165);
+    background-color:rgb(107, 52, 170);
+    border-radius:10px;
+    width:350px;
+    height:60px;
+    position:absolute;
+    margin-left:940px;
+    margin-top:-430px;
+    
+    
+}
+
+.header1{
+    border:1px solid rgb(172, 165, 165);
+    background-color:rgb(172, 165, 165);
+    border-radius:10px;
+    width:400px;
+    height:60px;
+    position:absolute;
+    margin-left:915px;
+    margin-top:-440px;
+    opacity:0.8;
+    
+}
+
+.header2{
+    border:1px solid white;
+    background-color:white;
+    border-radius:10px;
+    width:500px;
+    height:100px;
+    position:absolute;
+    margin-left:865px;
+    margin-top:-500px;
+    
+}
+
+.major{
+    padding-left:100px;
+    padding-top:10px;
+    position: absolute;
+}
+
+.major1{
+    padding-left:300px;
+    padding-top:10px;
+    position: absolute;
+}
+
+.major2{
+    padding-left:200px;
+    padding-top:10px;
+    position: absolute;
+}
+
+.major3{
+    padding-left:400px;
+    padding-top:10px;
+    position: absolute;
+}
+
+.time{
+    color:purple;
+    position:absolute;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top:18px;
+    font-family:Sans-serif;
+}
+
+.circle{
+    border:1px solid purple;
+    background-color:purple;
+    height:2px;
+    width:2px;
+    border-radius:50%;
+    position: absolute;
+    margin-left:285px;
+    margin-top:38px;
+}
+
+.circle1{
+    border:1px solid purple;
+    background-color:purple;
+    height:2px;
+    width:2px;
+    border-radius:50%;
+    position: absolute;
+    margin-left:285px;
+    margin-top:53px;
+}
+
+.circle2{
+    border:1px solid purple;
+    background-color:purple;
+    height:2px;
+    width:2px;
+    border-radius:50%;
+    position: absolute;
+    margin-left:184px;
+    margin-top:38px;
+}
+
+.circle3{
+    border:1px solid purple;
+    background-color:purple;
+    height:2px;
+    width:2px;
+    border-radius:50%;
+    position: absolute;
+    margin-left:184px;
+    margin-top:53px;
+}
+
+
+#hours{
+    color:purple;
+    position: absolute;
+    margin-left:108px;
+    z-index:1;
+    margin-top:21px;
+    font-size:25px;
+}
+
+#minutes{
+    color:purple;
+    position: absolute;
+    z-index:1;
+    font-size:25px;
+    margin-left:210px;
+    margin-top:21px;
+}
+
+
+#seconds{
+    color:purple;
+    position: absolute;
+    z-index:1;
+    font-size:25px;
+    margin-left:310px;
+    margin-top:21px;
+}
+
+#am-img{
+    color:white;
+    position: absolute;
+    z-index:1;
+    font-size:25px;
+    margin-left:415px;
+    margin-top:30px;
+}
+
+#plug{
+    color:purple;
+    position: absolute;
+    z-index:1;
+    font-size:25px;
+    margin-left:970px;
+    margin-top:-450px;
+}
+
+#plug1{
+    color:purple;
+    position: absolute;
+    z-index:1;
+    font-size:25px;
+    margin-left:1075px;
+    margin-top:-450px;
+}
+
+#plug2{
+    color:purple;
+    position: absolute;
+    z-index:1;
+    font-size:25px;
+    margin-left:1175px;
+    margin-top:-450px;
+}
+
+
+
